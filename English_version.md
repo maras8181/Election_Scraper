@@ -29,6 +29,7 @@ argument: vysledky_prostejov.csv
 Starting the program:
 
 ```.python election-scraper.py "https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnuts=7103" "vysledky_prostejov.csv"```.
+
 Download progress:
 ```
 DOWNLOAD DATA FROM SELECTED URL: https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnuts=7103
