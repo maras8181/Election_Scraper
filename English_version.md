@@ -74,7 +74,7 @@ click on the page from which we want to take the required data, but on the page 
 have to take an intermediate step. This intermediate step is located at line 157 - line 160. First we will ask for the HTML structure of the code of this “intermediate page.” 
 Then we will find all the links under which our required data is hidden. The summation of values is divided into upper and lower data, taken care of by the 
 ```sum_header_data``` and ```sum_party_numbers``` functions, all of which are stored in worksheets that we will need when saving to the ```.csv```. file. 
-The ```.get_cand_parties(arg)```. function will get us to get these pages.
+The ```get_cand_parties(arg)```. function will get us to get these pages.
 
 line 21 - we save to a .csv file. 
 Now we have all the data downloaded and we can start saving it to ```..csv```.. The first line will contain the header (line 18) and the candidate parties. 
