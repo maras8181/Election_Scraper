@@ -80,4 +80,4 @@ line 21 - we save to a .csv file.
 Now we have all the data downloaded and we can start saving it to ```..csv```.. The first line will contain the header (line 18) and the candidate parties. 
 The next lines will be filled in gradually using the for loop and the writerow method from line 26 - line 31.
 
-I spent 16 days doing this code.
+I spent 10 days (afternoons - 10 * 4 hours) doing this code.
