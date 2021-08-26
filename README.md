@@ -1,6 +1,6 @@
 Engeto: Project 3
 ===
-Třetí project na online python akademii od Engeta.
+Třetí project na online python akademii od Engeta. Tento kód je psaný po skončení kurzu. Psaní kódu trvalo 50 hodin.
 
 Popis zadání
 ---
@@ -79,5 +79,3 @@ Posledními daty, které nám chybí, jsou kandidující strany. Získání těc
 
 ř. (line) 21 - ukládáme do ```.csv``` souboru.
 nyní už máme všechna data stažená a můžeme začit zvesela ukládat do ```.csv```. První řádek bude obsahovat hlavicku (ř. (line) 18) a kandidující strany. Další řádky budeme postupně vyplňovat za pomocí ```for``` cyklu a metody ```writerow``` od ř. line 26 - ř (line) 31.
-
-Na tomto kódu jsem strávil 10 dní (10x odpoledne po 4 hodinách).
