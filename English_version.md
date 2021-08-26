@@ -1,6 +1,6 @@
 Engeto: Project 3
 ===
-The third project at the online python academy by Enget.
+The third project at the online python academy by Engeto. This code is written after the Courier. It took 50 hours to write the code.
 
 Description of assignment
 ---
@@ -79,5 +79,3 @@ The ```get_cand_parties(arg)```. function will get us to get these pages.
 line 21 - we save to a .csv file. 
 Now we have all the data downloaded and we can start saving it to ```..csv```.. The first line will contain the header (line 18) and the candidate parties. 
 The next lines will be filled in gradually using the for loop and the writerow method from line 26 - line 31.
-
-I spent 10 days (afternoons - 10 * 4 hours) doing this code.
